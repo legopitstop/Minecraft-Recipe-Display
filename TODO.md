@@ -9,6 +9,7 @@
   - Use JSON parser to parse the JSON before loading.
 - [ ] Add a prescript for loading metadata from JSON (favicon, custom description and title)
 - [ ] Make `resrouces` object optional in the JSON
+- [ ] `group` in the recipe JSON should add it to an [accordian](https://jqueryui.com/accordion/)
 
 # Broken sprites
 - ice - texture
